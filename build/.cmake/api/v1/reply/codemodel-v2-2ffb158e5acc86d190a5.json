@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "proj1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "app1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app1-Debug-43caaff0679d7ea9a0f5.json",
+					"name" : "app1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-Debug-3aeba6e3efa7886936d8.json",
+					"name" : "app2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app3-Debug-ab8fe0e652a1b9cec054.json",
+					"name" : "app3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app4-Debug-7c3016dbd41ae254166b.json",
+					"name" : "app4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app5-Debug-24dcbcc5323415d79ba8.json",
+					"name" : "app5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app6-Debug-8dc2a9b0c6ae78788c87.json",
+					"name" : "app6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/alka/Documents/opencv_cpp_tutorials/build",
+		"source" : "/home/alka/Documents/opencv_cpp_tutorials/chapter2_basics"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

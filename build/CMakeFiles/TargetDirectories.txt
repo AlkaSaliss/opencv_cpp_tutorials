@@ -1,0 +1,8 @@
+/home/alka/Documents/opencv_cpp_tutorials/build/CMakeFiles/app1.dir
+/home/alka/Documents/opencv_cpp_tutorials/build/CMakeFiles/app2.dir
+/home/alka/Documents/opencv_cpp_tutorials/build/CMakeFiles/app3.dir
+/home/alka/Documents/opencv_cpp_tutorials/build/CMakeFiles/app4.dir
+/home/alka/Documents/opencv_cpp_tutorials/build/CMakeFiles/app5.dir
+/home/alka/Documents/opencv_cpp_tutorials/build/CMakeFiles/app6.dir
+/home/alka/Documents/opencv_cpp_tutorials/build/CMakeFiles/edit_cache.dir
+/home/alka/Documents/opencv_cpp_tutorials/build/CMakeFiles/rebuild_cache.dir
